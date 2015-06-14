@@ -1,0 +1,56 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.worldname {
+	margin-left: 4px;
+}
+
+.text {
+	color: black;
+	margin: 0;
+	padding: 0;
+}
+body, html {
+	background: gray;
+	font-family: "comic sans ms";
+	font-size: 13pt;
+}
+
+h1,h2,h3,h4 {
+	font-weight: bold;
+}
+.header {
+	width: 100%;
+	height: 60px;
+}
+
+.navbar {
+	background-color: rgba(0,0,0,1);
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border:0;
+}
+
+.wrapper {
+	border-radius: 7px;
+	width: 1200px;
+	height: auto;
+	margin: 20px auto;
+	position: relative;
+	background: rgba(119, 156, 211, 1);
+	box-shadow: 0 0 7px black;
+}
+
+.content {
+	padding: 7px;
+	margin:20px;
+	background: white;
+	box-shadow: 0 0 7px 2px black;
+	border-radius: 7px;
+}
+
+.footer {
+
+}

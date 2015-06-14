@@ -1,0 +1,180 @@
+case 1: { x=41,y=397; }
+case 2: { x=40 ,y=396 ; }
+case 3: { x=39 ,y=395 ; }
+case 4: { x=37 ,y=393 ; }
+case 5: { x=36 ,y=392 ; }
+case 6: { x=35 ,y=390 ; }
+case 7: { x=34 ,y=389 ; }
+case 8: { x=33 ,y=388; }
+/* case 9: { x=33 ,y=387; } */
+case 9,10: { x= 33,y=386; }
+case 11: { x=33,y=385; }
+case 12: { x=31,y=383; }
+case 13: { x=31,y=382 ; }
+case 14: { x=30,y=381; }
+case 15: { x=30,y=380; }
+case 16: { x=30,y=379; }
+case 17: { x=30,y=378; }
+case 18: { x=29,y=377; }
+case 19: { x=29,y=375; }
+case 20: { x=28,y=372; }
+case 21: { x=28,y=369; }
+case 22: { x=29,y=367; }
+case 23: { x=29,y=366; }
+case 24: { x=29,y=365; }
+case 25: { x=29,y=364; }
+case 26: { x=30,y=363; }
+case 27: { x=30,y=359; }
+case 28: { x=31,y=357; }
+case 29: { x=33,y=354; }
+case 30: { x=33,y=351; }
+case 31: { x=34,y=348; }
+case 32: { x=35,y=346; }
+case 33: { x=36,y=345; }
+case 34: { x=37,y=344; }
+case 35: { x=38,y=343; }
+case 36: { x=39,y=342; }
+case 37: { x=39,y=341; }
+case 38: { x=40,y=340; }
+case 39: { x=41,y=339; }
+case 40: { x=42,y=338; }
+case 41: { x= ,y= ; }
+case 42: { x= ,y= ; }
+case 43: { x= ,y= ; }
+case 44: { x= ,y= ; }
+case 45: { x= ,y= ; }
+case 46: { x= ,y= ; }
+case 47: { x= ,y= ; }
+case 48: { x= ,y= ; }
+case 49: { x= ,y= ; }
+case 50: { x= ,y= ; }
+case 51: { x= ,y= ; }
+case 52: { x= ,y= ; }
+case 53: { x= ,y= ; }
+case 54: { x= ,y= ; }
+case 55: { x= ,y= ; }
+case 56: { x= ,y= ; }
+case 57: { x= ,y= ; }
+case 58: { x= ,y= ; }
+case 59: { x= ,y= ; }
+case 60: { x= ,y= ; }
+case 61: { x= ,y= ; }
+case 62: { x= ,y= ; }
+case 63: { x= ,y= ; }
+case 64: { x= ,y= ; }
+case 65: { x= ,y= ; }
+case 66: { x= ,y= ; }
+case 67: { x= ,y= ; }
+case 68: { x= ,y= ; }
+case 69: { x= ,y= ; }
+case 70: { x= ,y= ; }
+case 71: { x= ,y= ; }
+case 72: { x= ,y= ; }
+case 73: { x= ,y= ; }
+case 74: { x= ,y= ; }
+case 75: { x= ,y= ; }
+case 76: { x= ,y= ; }
+case 77: { x= ,y= ; }
+case 78: { x= ,y= ; }
+case 79: { x= ,y= ; }
+case 80: { x= ,y= ; }
+case 81: { x= ,y= ; }
+case 82: { x= ,y= ; }
+case 83: { x= ,y= ; }
+case 84: { x= ,y= ; }
+case 85: { x= ,y= ; }
+case 86: { x= ,y= ; }
+case 87: { x= ,y= ; }
+case 88: { x= ,y= ; }
+case 89: { x= ,y= ; }
+case 90: { x= ,y= ; }
+case 91: { x= ,y= ; }
+case 92: { x= ,y= ; }
+case 93: { x= ,y= ; }
+case 94: { x= ,y= ; }
+case 95: { x= ,y= ; }
+case 96: { x= ,y= ; }
+case 97: { x= ,y= ; }
+case 98: { x= ,y= ; }
+case 99: { x= ,y= ; }
+case 100: { x= ,y= ; }
+case 101: { x= ,y= ; }
+case 102: { x= ,y= ; }
+case 103: { x= ,y= ; }
+case 104: { x= ,y= ; }
+case 105: { x= ,y= ; }
+case 106: { x= ,y= ; }
+case 107: { x= ,y= ; }
+case 108: { x= ,y= ; }
+case 109: { x= ,y= ; }
+case 110: { x= ,y= ; }
+case 111: { x= ,y= ; }
+case 112: { x= ,y= ; }
+case 113: { x= ,y= ; }
+case 114: { x= ,y= ; }
+case 115: { x= ,y= ; }
+case 116: { x= ,y= ; }
+case 117: { x= ,y= ; }
+case 118: { x= ,y= ; }
+case 119: { x= ,y= ; }
+case 120: { x= ,y= ; }
+case 121: { x= ,y= ; }
+case 122: { x= ,y= ; }
+case 123: { x= ,y= ; }
+case 124: { x= ,y= ; }
+case 125: { x= ,y= ; }
+case 126: { x= ,y= ; }
+case 127: { x= ,y= ; }
+case 128: { x= ,y= ; }
+case 129: { x= ,y= ; }
+case 130: { x= ,y= ; }
+case 131: { x= ,y= ; }
+case 132: { x= ,y= ; }
+case 133: { x= ,y= ; }
+case 134: { x= ,y= ; }
+case 135: { x= ,y= ; }
+case 136: { x= ,y= ; }
+case 137: { x= ,y= ; }
+case 138: { x= ,y= ; }
+case 139: { x= ,y= ; }
+case 140: { x= ,y= ; }
+case 141: { x= ,y= ; }
+case 142: { x= ,y= ; }
+case 143: { x= ,y= ; }
+case 144: { x= ,y= ; }
+case 145: { x= ,y= ; }
+case 146: { x= ,y= ; }
+case 147: { x= ,y= ; }
+case 148: { x= ,y= ; }
+case 149: { x= ,y= ; }
+case 150: { x= ,y= ; }
+case 151: { x= ,y= ; }
+case 152: { x= ,y= ; }
+case 153: { x= ,y= ; }
+case 154: { x= ,y= ; }
+case 155: { x= ,y= ; }
+case 156: { x= ,y= ; }
+case 157: { x= ,y= ; }
+case 158: { x= ,y= ; }
+case 159: { x= ,y= ; }
+case 160: { x= ,y= ; }
+case 161: { x= ,y= ; }
+case 162: { x= ,y= ; }
+case 163: { x= ,y= ; }
+case 164: { x= ,y= ; }
+case 165: { x= ,y= ; }
+case 166: { x= ,y= ; }
+case 167: { x= ,y= ; }
+case 168: { x= ,y= ; }
+case 169: { x= ,y= ; }
+case 170: { x= ,y= ; }
+case 171: { x= ,y= ; }
+case 172: { x= ,y= ; }
+case 173: { x= ,y= ; }
+case 174: { x= ,y= ; }
+case 175: { x= ,y= ; }
+case 176: { x= ,y= ; }
+case 177: { x= ,y= ; }
+case 178: { x= ,y= ; }
+case 179: { x= ,y= ; }
+case 180: { x= ,y= ; }

@@ -1,0 +1,1 @@
+<p>Willkommen bei meinem Browsergame</p>
